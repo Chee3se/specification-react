@@ -10,7 +10,7 @@ function App() {
                 <div className="bg-gray-50 text-gray-700 snap-always snap-center scroll-pb-10">
                     <Reveal className={"h-screen w-screen pt-20 px-10"}>
                         <h1 className="text-6xl font-extrabold py-6">Kas ir prasības?</h1>
-                        <p className="text-xl font-medium">Prasības ir dokumenti, kas apraksta, ko sistēmai ir jādara.</p>
+                        <p className="text-xl font-medium">Prasības ir kādas vēlēšanās vai noteikums, kuram ir jāseko līdzi</p>
                     </Reveal>
                 </div>
                 <div className="bg-cyan-400 text-cyan-900 snap-always snap-center py-10">
@@ -22,7 +22,7 @@ function App() {
                 <div className="bg-amber-400 text-yellow-900 snap-always snap-center scroll-pt-10">
                     <Reveal type={"pop"} className={"h-screen w-screen pt-20 px-10"}>
                         <h1 className="text-6xl font-extrabold py-6">Un ar ko viena atšķirās no otras?</h1>
-                        <p className="text-xl font-medium">Prasības ir dokumenti, kas apraksta, ko sistēmai ir jādara. Prasību specifikācija ir dokuments, kas apraksta, ko sistēmai ir jādara.</p>
+                        <p className="text-xl font-medium">Prasība ir vispārīgs termins. Prasību specifikācija ir dokuments, kas apraksta, ko sistēmai ir jādara.</p>
                     </Reveal>
                 </div>
             </main>
